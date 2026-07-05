@@ -27,8 +27,6 @@ The core highlight of this system is that it achieves fully bi-directional entry
 
 The circuit functionality was fully validated using **Proteus Simulation software** across all operational test cases prior to hardware fabrication[cite: 1].
 
-![Proteus Circuit Schematic](schematics/schematic.jpeg)
-
 ### Core System Circuit Stages:
 
 1. **Sensing Stage:** Two Light Dependent Resistors ($LDR_1$ and $LDR_2$) form voltage dividers[cite: 1]. When a light beam is unblocked, the sensor resistance is low, providing a digital `LOW` input to the stage[cite: 1]. When blocked by a human body, resistance spikes to several mega-ohms, outputting a sharp digital `HIGH` pulse[cite: 1].
