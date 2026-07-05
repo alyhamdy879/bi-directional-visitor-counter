@@ -11,7 +11,7 @@ The core highlight of this system is that it achieves fully bi-directional entry
 ### Hardware Implementation (Breadboard vs. Final Custom PCB)
 | Prototype on Testboard | Final Soldered PCB Hardware |
 |---|---|
-| <img src="media/breadboard.jpg" width="400" alt="Breadboard Testing"> | <img src="media/pcb.jpg" width="400" alt="Finished PCB"> |
+| <img src="media/breadboard.jpeg" width="400" alt="Breadboard Testing"> | <img src="media/pcb.jpeg" width="400" alt="Finished PCB"> |
 
 *(Note to Aly: Upload your breadboard and PCB images to the `media/` folder and make sure the filenames match these links!)*
 
