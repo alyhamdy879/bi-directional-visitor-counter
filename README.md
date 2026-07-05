@@ -30,7 +30,8 @@ The core highlight of this system is that it achieves fully bi-directional entry
 
 The circuit functionality was fully validated using **Proteus Simulation software** across all operational test cases prior to hardware fabrication[cite: 1].
 
-![Proteus Circuit Schematic](media/schematic.png)
+![Proteus Circuit Schematic](schematics
+/schematic.jpeg)
 
 ### Core System Circuit Stages:
 
